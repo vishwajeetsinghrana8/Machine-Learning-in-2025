@@ -1,4 +1,4 @@
-### **Machine Learning Engineer Roadmap for 2025**
+# **Machine Learning Engineer Roadmap for 2025**
 
 This roadmap provides a structured guide for becoming a proficient Machine Learning Engineer by 2025. It covers foundational skills, essential tools, and advanced techniques that are in high demand, and is segmented into phases based on knowledge depth and the career stage you aim to reach.
 
